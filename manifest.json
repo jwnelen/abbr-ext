@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
-  "name": "Hello Extensions",
-  "description": "Base Level Extension",
-  "version": "1.1",
+  "name": "Abbreviation Extension",
+  "description": "Replacing text with your favorite abbreviation",
+  "version": "0.1",
   "content_scripts": [
     {
       "js": ["scripts/content.js"],

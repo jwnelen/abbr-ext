@@ -1,5 +1,3 @@
-console.log("Calling content.js");
-
 const map = new Map();
 map.set("vaatwasser", "vawa");
 map.set("Vaatwasser", "Vawaa");
